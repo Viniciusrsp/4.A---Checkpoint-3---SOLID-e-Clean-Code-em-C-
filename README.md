@@ -17,3 +17,5 @@
 5. Clean Code - Métodos grandes
 - Classe: GerenciadorBiblioteca
 - Problema: Métodos como RealizarEmprestimo e RealizarDevolucao têm muitas responsabilidades.
+
+- Consertar o Código
